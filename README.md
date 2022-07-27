@@ -2,7 +2,7 @@ propbank-sample
 ===============
 
 Little helper program that prints out a random sample of PropBank frames with
-their argument descriptions.
+their argument descriptions, or a specific frame.
 
 Installation
 ------------
@@ -13,3 +13,5 @@ Usage
 -----
 
     python3 sample.py
+
+    python3 sample.py lure.01
